@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(120deg,#d4b757, #d6795f);
+    
+    
+    
+}
+
+
+.container {
+    background-color: red;
+    width: 20rem;
+    margin: 10rem auto;
+    
+
+    
+}
+
+.box {
+    background-color: green;
+    
+}
